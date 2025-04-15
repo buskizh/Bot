@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "minecraft-data": "^3.22.0",
+    "mineflayer": "github:PrismarineJS/mineflayer#master"
+  }
+}

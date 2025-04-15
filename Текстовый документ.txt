@@ -1,0 +1,14 @@
+cd C:\Users\denfr\Downloads\Bot
+node Bot.js
+
+Установи forever глобально:
+npm install forever -g
+
+Запусти бота с помощью forever:
+forever start Bot.js
+
+Чтобы проверить список всех процессов, запущенных с forever:
+forever list
+
+Для остановки процесса:
+forever stop Bot.js
